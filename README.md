@@ -1,15 +1,15 @@
 <!-- list -->
 
-https://ibb.co/vw3swj4
+List https://ibb.co/vw3swj4
 
 <!-- getById  -->
 
-https://ibb.co/PjxX9Yw
+Get https://ibb.co/PjxX9Yw
 
 <!-- add -->
 
-https://ibb.co/RP2rkXK
+Add https://ibb.co/RP2rkXK
 
 <!-- remove -->
 
-https://ibb.co/qdjXrJY
+Remove https://ibb.co/qdjXrJY
